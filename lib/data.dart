@@ -3,7 +3,8 @@ List constants = [
     "title": "Untitle 1",
     "duration": "27 May to 1 Sep",
     "moti": "take time",
-    "success_rate": 40.0,
+    "previous_success_rate": 40.0,
+    "success_rate": 40.5,
     "note": "",
     "habbits": [
       {
@@ -108,7 +109,8 @@ List constants = [
     "title": "Untitle 2",
     "duration": "27 May to 1 Sep",
     "moti": "take time",
-    "success_rate": 40.0,
+    "previous_success_rate": 40.0,
+    "success_rate": 40.5,
     "note": "",
     "habbits": [
       {
@@ -213,7 +215,8 @@ List constants = [
     "title": "Untitle 3",
     "duration": "27 May to 1 Sep",
     "moti": "take time",
-    "success_rate": 40.0,
+    "previous_success_rate": 40.0,
+    "success_rate": 40.5,
     "note": "",
     "habbits": [
       {
@@ -318,7 +321,8 @@ List constants = [
     "title": "Untitle 4",
     "duration": "27 May to 1 Sep",
     "moti": "take time",
-    "success_rate": 40.0,
+    "previous_success_rate": 40.0,
+    "success_rate": 40.5,
     "note": "",
     "habbits": [
       {
@@ -423,7 +427,8 @@ List constants = [
     "title": "Untitle 5",
     "duration": "27 May to 1 Sep",
     "moti": "take time",
-    "success_rate": 40.0,
+    "previous_success_rate": 40.0,
+    "success_rate": 40.5,
     "note": "",
     "habbits": [
       {
@@ -528,7 +533,8 @@ List constants = [
     "title": "Untitle 6",
     "duration": "27 May to 1 Sep",
     "moti": "take time",
-    "success_rate": 40.0,
+    "previous_success_rate": 40.0,
+    "success_rate": 40.5,
     "note": "",
     "habbits": [
       {

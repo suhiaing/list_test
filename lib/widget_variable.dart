@@ -10,7 +10,7 @@ class Variable {
       spreadRadius: 5,
     ),
     BoxShadow(
-      color: Colors.white70,
+      color: Colors.grey,
       offset: Offset(-4, -4),
       blurRadius: 15,
       spreadRadius: 5,
@@ -25,7 +25,7 @@ class Variable {
       spreadRadius: 5,
     ),
     BoxShadow(
-      color: Colors.white70,
+      color: Colors.white,
       offset: Offset(-4, -4),
       blurRadius: 15,
       spreadRadius: 5,
